@@ -1,4 +1,4 @@
-### Virtualmin installed over Centos 6 (AMD64)
+### Virtualmin installed over Centos 7 (AMD64)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3171/badge)](https://bestpractices.coreinfrastructure.org/projects/3171) [![](https://images.microbadger.com/badges/image/giodegas/virtualmin-c7.svg)](https://microbadger.com/images/giodegas/virtualmin-c7 "Get your own image badge on microbadger.com")
 
